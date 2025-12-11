@@ -1,6 +1,11 @@
 # Create and get user
 Test for requests: Create user, Get user on pytest
 
+Test create user with unique ID, username, email in format:<br/>
+ID: current time + current date
+username: random first name + ramdom last name + current time + current date
+email: <username>@test.com
+
 ## Installation
 
 To install and run this project locally, follow these steps:
