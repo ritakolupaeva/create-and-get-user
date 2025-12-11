@@ -1,5 +1,5 @@
 # Create and get user
-Test for requests: Create user, Get user on pytest
+Test for requests: Create user, Get user on Pytest
 
 Test create user with unique ID, username, email in format:<br/>
 ID: current time + current date<br/>
