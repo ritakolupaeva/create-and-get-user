@@ -9,12 +9,12 @@ To install and run this project locally, follow these steps:
    `git clone https://github.com/ritakolupaeva/create-and-get-user.git`
 
 3. Install virtual environment:<br/>
-   `python3 -m venv .venv # macOS`<br/>
-   `python -m venv .venv  # Windows`
+   `python3 -m venv .venv` # macOS<br/>
+   `python -m venv .venv`  # Windows
 
 3. Activate virtual environment:<br/>
-   `source .venv/bin/activate  # macOS`<br/>
-   `.venv\Scripts\activate.bat # Windows`
+   `source .venv/bin/activate`  # macOS<br/>
+   `.venv\Scripts\activate.bat` # Windows
 
 5. Install pytest:<br/>
    `pip install pytest`
