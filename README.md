@@ -22,7 +22,7 @@ To install and run this project locally, follow these steps:
 5. Check installation:<br/>
    `pytest --version`
 
-6. Install requests:
+6. Install requests:<br/>
    `pip install requests`
 
 9. Launch tests:<br/>
