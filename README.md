@@ -29,5 +29,5 @@ To install and run this project locally, follow these steps:
    `deactivate`
 
 ## Additional information
-If import requests is highlighted in yellow, click on it, select Quick fix and select the recommended Interpreter.
+If import requests is highlighted in yellow, click on it, select "Quick fix" and select the recommended Interpreter.
 
