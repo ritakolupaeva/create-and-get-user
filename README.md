@@ -25,4 +25,7 @@ To install and run this project locally, follow these steps:
 9. Launch tests:<br/>
     `pytest`
 
+10. Deactivate virtual environment:<br/>
+   `deactivate`
+
 
