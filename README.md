@@ -22,13 +22,12 @@ To install and run this project locally, follow these steps:
 5. Check installation:<br/>
    `pytest --version`
 
-6. Install requests:<br/>
-   `pip install requests`
-
-9. Launch tests:<br/>
+6. Launch tests:<br/>
     `pytest`
 
-10. Deactivate virtual environment:<br/>
+7. Deactivate virtual environment:<br/>
    `deactivate`
 
+## Additional information
+If import requests is highlighted in yellow, click on it, select Quick fix and select the recommended Interpreter.
 
