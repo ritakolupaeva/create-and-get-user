@@ -7,7 +7,7 @@ fake = Faker()
 
 @pytest.fixture
 def generated_user_data():
-    """Generate unique ID и username"""
+    """Generate unique ID and username"""
     now = datetime.now()
     generated_id = int(now.strftime("%H%M%d%m"))
     generated_username = f"{fake.first_name()}_{fake.last_name()}{generated_id}"
