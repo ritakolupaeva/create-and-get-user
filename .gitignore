@@ -1,0 +1,12 @@
+# Ignore Python virtual environment folders
+.venv/
+venv/
+env/
+ENV/
+
+# Ignore Python and Pytest cache and compilation artifacts
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+.pytest_cache
