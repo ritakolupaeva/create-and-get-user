@@ -13,27 +13,30 @@ To install and run this project locally, follow these steps:
 1. Clone the repository:<br/>
    `git clone https://github.com/ritakolupaeva/create-and-get-user.git`
 
-2. Install virtual environment:<br/>
+2. Open terminal in the folder with rerepository:<br/>
+   `ls create-and-get-user`
+
+3. Install virtual environment:<br/>
    `python3 -m venv .venv` # macOS<br/>
    `python -m venv .venv`  # Windows
 
-3. Activate virtual environment:<br/>
+4. Activate virtual environment:<br/>
    `source .venv/bin/activate`  # macOS<br/>
    `.venv\Scripts\activate.bat` # Windows
 
-4. Install Pytest:<br/>
+5. Install Pytest:<br/>
    `pip install pytest`
 
-5. Install Faker:<br/>
+6. Install Faker:<br/>
    `pip install faker`
 
-6. Check installation:<br/>
+7. Check installation:<br/>
    `pytest --version`
 
-7. Launch tests:<br/>
+8. Launch tests:<br/>
     `pytest -v -s`
 
-8. Deactivate virtual environment:<br/>
+9. Deactivate virtual environment:<br/>
    `deactivate`
 
 ## Additional information
