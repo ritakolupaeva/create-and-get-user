@@ -14,7 +14,7 @@ To install and run this project locally, follow these steps:
    `git clone https://github.com/ritakolupaeva/create-and-get-user.git`
 
 2. Open terminal in the folder with rerepository:<br/>
-   `ls create-and-get-user`
+   `cd create-and-get-user`
 
 3. Install virtual environment:<br/>
    `python3 -m venv .venv` # macOS<br/>
