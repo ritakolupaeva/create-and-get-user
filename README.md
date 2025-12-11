@@ -30,12 +30,16 @@ To install and run this project locally, follow these steps:
 6. Install Faker:<br/>
    `pip install faker`
 
-7. Launch tests:<br/>
+7. Launch test:<br/>
     `pytest -v -s`
 
-8. Deactivate virtual environment:<br/>
+8. After launch test you can see results in terminal in format:<br/>
+   `User created with...` with data from create user request<br/>
+   `User received with...` with data from get user request<br/>
+
+9. Deactivate virtual environment:<br/>
    `deactivate`
 
 ## Additional information
-If import requests is highlighted in yellow, click on it, select "Quick fix" and select the recommended Interpreter.
+If `import requests` in `user_api.py` file will be underlined in yellow, move the mouse cursor over it in VS Code, select "Quick Fix...", then "Select a different interpreter" and select the recommended Interpreter.
 
