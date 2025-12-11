@@ -4,7 +4,7 @@ Test for requests: Create user, Get user on Pytest
 Test create user with unique ID, username, email in format:<br/>
 ID: current time + current date<br/>
 username: random first name + ramdom last name + current time + current date<br/>
-email: <username>@test.com
+email: \<username\>@test.com
 
 ## Installation
 
