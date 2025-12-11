@@ -27,17 +27,20 @@ To install and run this project locally, follow these steps:
 5. Install Pytest:<br/>
    `pip install pytest`
 
-6. Install Faker:<br/>
+6. Install requests:<br/>
+   `pip install requests`
+
+7. Install Faker:<br/>
    `pip install faker`
 
-7. Launch test:<br/>
+8. Launch test:<br/>
     `pytest -v -s`
 
-8. After launch test you can see results in terminal in format:<br/>
+9. After launch test you can see results in terminal in format:<br/>
    `User created with...` with data from create user request<br/>
    `User received with...` with data from get user request<br/>
 
-9. Deactivate virtual environment:<br/>
+10. Deactivate virtual environment:<br/>
    `deactivate`
 
 ## Additional information
