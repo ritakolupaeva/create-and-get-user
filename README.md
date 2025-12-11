@@ -30,13 +30,10 @@ To install and run this project locally, follow these steps:
 6. Install Faker:<br/>
    `pip install faker`
 
-7. Check installation:<br/>
-   `pytest --version`
-
-8. Launch tests:<br/>
+7. Launch tests:<br/>
     `pytest -v -s`
 
-9. Deactivate virtual environment:<br/>
+8. Deactivate virtual environment:<br/>
    `deactivate`
 
 ## Additional information
