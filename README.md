@@ -23,7 +23,7 @@ To install and run this project locally, follow these steps:
    `pytest --version`
 
 6. Launch tests:<br/>
-    `pytest`
+    `pytest -v -s`
 
 7. Deactivate virtual environment:<br/>
    `deactivate`
