@@ -16,16 +16,19 @@ To install and run this project locally, follow these steps:
    `source .venv/bin/activate`  # macOS<br/>
    `.venv\Scripts\activate.bat` # Windows
 
-4. Install pytest:<br/>
+4. Install Pytest:<br/>
    `pip install pytest`
 
-5. Check installation:<br/>
+5. Install Faker:<br/>
+   `pip install faker`
+
+6. Check installation:<br/>
    `pytest --version`
 
-6. Launch tests:<br/>
+7. Launch tests:<br/>
     `pytest -v -s`
 
-7. Deactivate virtual environment:<br/>
+8. Deactivate virtual environment:<br/>
    `deactivate`
 
 ## Additional information
